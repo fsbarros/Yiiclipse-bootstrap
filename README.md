@@ -1,4 +1,5 @@
 Yiiclipse-bootstrap
 ===================
 
-clean yii eclipse project 
+Clean Eclipse project
+Using Yiiclipse and bootstarp2
